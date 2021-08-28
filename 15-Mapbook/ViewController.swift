@@ -38,6 +38,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         // Do any additional setup after loading the view.
         
         //GITHUB TEST
+        // GITHUB TEST FROM XCODE
         
         addButton.isHidden = true
         mapView.delegate = self
